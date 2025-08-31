@@ -1,0 +1,21 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- ALÚNICA text -->
+  <text x="10" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#E3DDD6">ALÚNICA</text>
+  
+  <!-- ESQUADRIAS text -->
+  <text x="10" y="52" font-family="Arial, sans-serif" font-size="10" font-weight="normal" fill="#8C929C" letter-spacing="2px">ESQUADRIAS</text>
+  
+  <!-- Aluminum profile lines above the text -->
+  <g stroke="#E3DDD6" stroke-width="1" fill="none" opacity="0.7">
+    <!-- Profile outlines inspired by aluminum extrusions -->
+    <path d="M10 8 L50 8 L50 12 L45 12 L45 16 L50 16 L50 20 L10 20 Z"/>
+    <path d="M55 8 L95 8 L95 12 L90 12 L90 16 L95 16 L95 20 L55 20 Z"/>
+    <path d="M100 8 L140 8 L140 12 L135 12 L135 16 L140 16 L140 20 L100 20 Z"/>
+    <path d="M145 8 L185 8 L185 12 L180 12 L180 16 L185 16 L185 20 L145 20 Z"/>
+    
+    <!-- Curved profile -->
+    <path d="M60 10 Q70 6 80 10 Q70 14 60 10"/>
+    <path d="M120 10 Q130 6 140 10 Q130 14 120 10"/>
+  </g>
+</svg>
+
